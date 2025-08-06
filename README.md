@@ -1,4 +1,4 @@
-<img width="1920" height="948" alt="Captura de tela 2025-08-06 164747" src="https://github.com/user-attachments/assets/519ca1e0-f6bc-42eb-b28b-de655d65a474" />
+
 
 
 
