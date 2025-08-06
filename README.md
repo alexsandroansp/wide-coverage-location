@@ -47,8 +47,8 @@ Reproduzir 100% do layout original, focando em:
 📸 **Preview do Projeto**
 
 <p align="center">
-  <a href="(https://wide-coverage-location-three.vercel.app/)" target="_blank">
-    <img src="(https://github.com/user-attachments/assets/519ca1e0-f6bc-42eb-b28b-de655d65a474)" width="100%" alt="Imagem do projeto We care about your pet" />
+  <a href="https://wide-coverage-location-three.vercel.app/" target="_blank">
+    <img src="https://github.com/user-attachments/assets/519ca1e0-f6bc-42eb-b28b-de655d65a474" width="100%" alt="Imagem do projeto We care about your pet" />
   </a>
 </p>
 
